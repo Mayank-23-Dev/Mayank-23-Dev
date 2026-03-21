@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛠 I’m currently working on<br>Building Hactiq — a habit & productivity web tool.<br><br>🤝 I’m looking to collaborate on<br>Beginner-friendly open-source projects and meaningful web apps.<br><br>🆘 I’m looking for help with<br>Backend systems, databases, and scaling real-world projects.<br><br>🌱 I’m currently learning<br>C++, DSA, JavaScript, React, and backend fundamentals.<br><br>💬 Ask me about<br>Frontend development, productivity systems, or starting projects as a student.<br><br>⚡ Fun fact<br>I build tools for my own problems first — consistency comes second.
+🛠 I’m currently working on<br>Building FinEase- An AI-based Financial System.<br><br>🤝 I’m looking to collaborate on<br>Beginner-friendly open-source projects and meaningful web apps.<br><br>🆘 I’m looking for help with<br>Backend systems, databases, and scaling real-world projects.<br><br>🌱 I’m currently learning<br>C++, DSA, JavaScript, React, and backend fundamentals.<br><br>💬 Ask me about<br>Frontend development, productivity systems, or starting projects as a student.<br><br>⚡ Fun fact<br>I build tools for my own problems first — consistency comes second.
 
 
 ## 🌐 Socials:
